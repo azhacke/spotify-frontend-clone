@@ -1,1 +1,1 @@
-this is my learning BASED project created for learning
+this is clone of spotify which is built using HTML CSS JS
